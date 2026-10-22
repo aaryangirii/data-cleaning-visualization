@@ -1,0 +1,12 @@
+customer_id,age,city,monthly_spend,visits_per_month,membership
+101,22.0,Delhi,1200.0,2.0,Basic
+102,35.0,Jaipur,2500.0,5.0,Premium
+103,,Prayagraj,1800.0,3.0,Basic
+104,41.0,Delhi,,4.0,Premium
+105,29.0,,2100.0,3.0,Basic
+106,150.0,Lucknow,99999.0,8.0,Premium
+107,31.0,Jaipur,1750.0,4.0,Basic
+108,27.0,Delhi,1600.0,,Basic
+109,35.0,Lucknow,2300.0,5.0,Premium
+110,24.0,Prayagraj,1400.0,2.0,Basic
+110,24.0,Prayagraj,1400.0,2.0,Basic
